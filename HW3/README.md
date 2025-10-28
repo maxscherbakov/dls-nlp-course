@@ -1,0 +1,1 @@
+ссылка на [Google Colab](https://colab.research.google.com/drive/1b4dviTRgJlcTaD3_nuic6trXZ4rmD4pe?usp=sharing)
